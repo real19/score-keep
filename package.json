@@ -12,5 +12,8 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-flip-move": "^3.0.1"
+  },
+  "engins":{
+    "node":"4.6.2"
   }
 }
